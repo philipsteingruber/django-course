@@ -1,0 +1,8 @@
+{
+    "indent_size": 4,
+    "indent_style": "space",
+    "printWidth": 20000,
+    "bracketSpacing": false,
+    "bracketSameLine": true,
+    "singleAttributePerLine": false
+}
